@@ -4,6 +4,7 @@ script_dir=$(dirname "$(realpath "$0")")
 pushd $script_dir
 
 echo "Copy hooks to .git/hooks directory"
-cp -R ./hooks .git/hooks
+chmod +Rx ./hooks # add right to execute hooks
+cp -R ./hooks ./.git/
 
 popd
