@@ -3,4 +3,4 @@ Remplissez-le consciencieusement.
 
 Pour le mettre en forme, vous pouvez ajouter utiliser le langage markdown.
 
-# Section de commit local #
+# Première section #
