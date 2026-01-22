@@ -7,3 +7,5 @@ Pour le mettre en forme, vous pouvez ajouter utiliser le langage markdown.
 
 Modificitation pour un commit
 ** Changements ajoutés à la branche main pour montrer l'intérêt du merge **
+
+modification pour precommit
